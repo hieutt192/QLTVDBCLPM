@@ -1,0 +1,59 @@
+Light_Novel : [
+	"SAO_Aincrad_001":{
+		provider: "IPM",
+		publisher: "NXB Hồng Đức",
+		author: "Reki Kawahara",
+		status: avalaibale		
+	},	
+
+	"tham_tu_da_chet_1":{
+		provider: "Thái Hà",
+		publisher: "NXB Hà Nội",
+		author: "Nygozyu",
+		status: avalaibale		
+	},
+
+	"your_name":{
+		provider: "IPM",
+		publisher: "NXB Hồng Đức",
+		author: "Shinkai Makoto",
+		status: avalaibale		
+	},
+
+	"dua_con_cua_thoi_tiet":{
+		provider: "IPM",
+		publisher: "NXB Hà Nội",
+		author: "Shinkai Makoto",
+		status: avalaibale		
+	},
+
+	"Re_zero_1":{
+		provider: "IPM",
+		publisher: "NXB Hồng Đức",
+		author: "Tappei Nagatsuki",
+		status: avalaibale		
+	},
+
+	"Fate_zero_1":{
+		provider: "IPM",
+		publisher: "NXB Văn Học",
+		author: "Gen Urobuchi",
+		status: avalaibale		
+	},
+
+	"5cm_tren_giay":{
+		provider: "IPM",
+		publisher: "NXB Văn Học",
+		author: "Shinkai Makoto",
+		status: avalaibale		
+	},
+
+	"re_zero_2":{
+		provider: "IPM",
+		publisher: "NXB Hồng Đức",
+		author: "Tappei Nagatsuki",
+		status: avalaibale	
+	},
+
+	
+]

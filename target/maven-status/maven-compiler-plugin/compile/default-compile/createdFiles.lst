@@ -1,0 +1,14 @@
+dao\BookStatDAO.class
+models\BorrowingTurn.class
+dao\BookDAO.class
+dao\DAO.class
+dao\LibcardDAO.class
+models\User.class
+models\CallCardItem.class
+dao\CallCardDAO.class
+models\Book.class
+models\CallCardDetail.class
+models\BookStat.class
+dao\BookCopyDAO.class
+models\BookCopy.class
+models\CallCard.class
